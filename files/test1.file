@@ -3,4 +3,4 @@ Test1-key2=secretValue2
 Test1-key3=secretValue3
 Test1.key4=
 Testing Url:
-@Value("${spring.main.datasource.driver-class-name}")
+@Value("${spring.main.datasource.url}")
