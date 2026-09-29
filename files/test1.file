@@ -5,3 +5,5 @@ Test1.key4=
 Testing Url:
 @Value("${spring.main.datasource.url}")
 @Value("${spring.archive.datasource.url}")
+spring.main.datasource.url=
+spring.archive.datasource.url=
