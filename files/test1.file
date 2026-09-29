@@ -4,3 +4,4 @@ Test1-key3=secretValue3
 Test1.key4=
 Testing Url:
 @Value("${spring.main.datasource.url}")
+@Value("${spring.archive.datasource.url}")
